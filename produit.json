@@ -1,0 +1,276 @@
+
+[
+    {
+    "id" : 20001421,
+    "désignation" : "Series 9 Electric Shaver",
+    "prix" : 300,
+    "catégorie" : "Men",
+    "disponibilité" : ["Tanger","Rabat","Tetouan","Chef Shawn"],
+    "fournisseur":{
+        "raison_sociale":"Braun",
+        "adresse": "Frankfurt, Germany"
+    }
+
+    }
+    ,
+    {
+        "id" : 20001426,
+        "désignation" : "Silk·expert Pro 5 IPL",
+        "prix" : 350,
+        "catégorie" : "Men",
+        "disponibilité" : ["Tanger","Tetouan","Asfi"],
+        "fournisseur":{
+            "raison_sociale":"Braun",
+            "adresse": "Frankfurt, Germany"
+        }
+    
+        }
+        ,
+        {
+            "id" : 20001422,
+            "désignation" : "Series 7 Electric Shaver",
+            "prix" : 400,
+            "catégorie" : "Men",
+            "disponibilité" : ["Tanger","Tetouan","Asfi","Rabat"],
+            "fournisseur":{
+                "raison_sociale":"Braun",
+                "adresse": "Frankfurt, Germany"
+            }
+        
+            }
+            ,
+            {
+                "id" : 20001423,
+                "désignation" : "Silk·épil 9 Flex Epilator",
+                "prix" : 450,
+                "catégorie" : "Unisex",
+                "disponibilité" : ["Tanger","Tetouan","Asfi","Rabat","Rabat","Chef Shawn"],
+                "fournisseur":{
+                    "raison_sociale":"Braun",
+                    "adresse": "Frankfurt, Germany"
+                }
+            
+                }
+                ,
+                {
+                    "id" : 20001424,
+                    "désignation" : "Series 9 Pro withPowerCase",
+                    "prix" : 450,
+                    "catégorie" : "Men",
+                    "disponibilité" : ["Tetouan","Asfi","Rabat","Rabat"],
+                    "fournisseur":{
+                        "raison_sociale":"Braun",
+                        "adresse": "Frankfurt, Germany"
+                    }
+                
+                    }
+                    ,
+                    {
+                        "id" : 20001425,
+                        "désignation" : "Series 9 Pro",
+                        "prix" : 350,
+                        "catégorie" : "Men",
+                        "disponibilité" : ["Tetouan","Asfi","Rabat","Rabat"],
+                        "fournisseur":{
+                            "raison_sociale":"Braun",
+                            "adresse": "Frankfurt, Germany"
+                        }
+                    
+                        }
+                        ,
+                        {
+                            "id" : 20001420,
+                            "désignation" : "Silk·expert Pro 5",
+                            "prix" : 300,
+                            "catégorie" : "Women",
+                            "disponibilité" : ["Tanger","Tetouan","Asfi","Rabat","Rabat"],
+                            "fournisseur":{
+                                "raison_sociale":"Braun",
+                                "adresse": "Frankfurt, Germany"
+                            }
+                        
+                            }
+                            ,
+                        {
+                            "id" : 20001427,
+                            "désignation" : "Silk·expert Pro 3",
+                            "prix" : 300,
+                            "catégorie" : "Women",
+                            "disponibilité" : ["Tanger","Rabat","Rabat"],
+                            "fournisseur":{
+                                "raison_sociale":"Braun",
+                                "adresse": "Frankfurt, Germany"
+                            }
+                        
+                            }
+                            ,
+                        {
+                            "id" : 20001428,
+                            "désignation" : "Series 8 Electric Shaver, 8467cc",
+                            "prix" : 400,
+                            "catégorie" : "Men",
+                            "disponibilité" : ["Tanger","Tetouan","Asfi","Rabat","Rabat","Chef Shawn"],
+                            "fournisseur":{
+                                "raison_sociale":"Braun",
+                                "adresse": "Frankfurt, Germany"
+                            }
+                        
+                            }
+                            ,
+                        {
+                            "id" : 20001429,
+                            "désignation" : "Beard Trimmer 7 for Face and Hair",
+                            "prix" : 600,
+                            "catégorie" : "Men",
+                            "disponibilité" : ["Tanger","Tetouan","Asfi","Rabat","Rabat","Chef Shawn"],
+                            "fournisseur":{
+                                "raison_sociale":"Braun",
+                                "adresse": "Frankfurt, Germany"
+                            }
+                        
+                            }
+                            ,
+                        {
+                            "id" : 20001430,
+                            "désignation" : "Beard Trimmer 5 for Face and Hair",
+                            "prix" : 450,
+                            "catégorie" : "Men",
+                            "disponibilité" : ["Tanger","Rabat","Tetouan","Chef Shawn"],
+                            "fournisseur":{
+                                "raison_sociale":"Braun",
+                                "adresse": "Frankfurt, Germany"
+                            }
+                        
+                            }
+                            ,
+                            {
+                                "id" : 20001431,
+                                "désignation" : "Beard Trimmer 3 for Face and Hair",
+                                "prix" : 350,
+                                "catégorie" : "Men",
+                                "disponibilité" : ["Tanger","Rabat","Tetouan","Casa Blanca","Chef Shawn"],
+                                "fournisseur":{
+                                    "raison_sociale":"Braun",
+                                    "adresse": "Frankfurt, Germany"
+                                }
+                            
+                                }
+                                ,
+                            {
+                                "id" : 20001432,
+                                "désignation" : "Shaver Replacement Head, Series 9",
+                                "prix" : 200,
+                                "catégorie" : "Men",
+                                "disponibilité" : ["Casa Blanca","Chef Shawn","Tetouan"],
+                                "fournisseur":{
+                                    "raison_sociale":"Braun",
+                                    "adresse": "Frankfurt, Germany"
+                                }
+                            
+                                }
+                                ,
+                                {
+                                    "id" : 20001433,
+                                    "désignation" : "Shaver Replacement Head, Series 7",
+                                    "prix" : 180,
+                                    "catégorie" : "Men",
+                                    "disponibilité" : ["Casa Blanca","Chef Shawn","Rabat"],
+                                    "fournisseur":{
+                                        "raison_sociale":"Braun",
+                                        "adresse": "Frankfurt, Germany"
+                                    }
+                                
+                                    }
+                                    ,
+                                    {
+                                        "id" : 20001434,
+                                        "désignation" : "Shaver Replacement Head, Series 5 and 6",
+                                        "prix" : 200,
+                                        "catégorie" : "Men",
+                                        "disponibilité" : ["Casa Blanca","Chef Shawn","Rabat","Asfi"],
+                                        "fournisseur":{
+                                            "raison_sociale":"Braun",
+                                            "adresse": "Frankfurt, Germany"
+                                        }
+                                    
+                                        }
+                                        ,
+                                    {
+                                        "id" : 20001435,
+                                        "désignation" : "Silk·expert Pro 5, At-home IPL Hair Removal System",
+                                        "prix" : 350,
+                                        "catégorie" : "Women",
+                                        "disponibilité" : ["Casa Blanca","Chef Shawn","Rabat","Asfi"],
+                                        "fournisseur":{
+                                            "raison_sociale":"Braun",
+                                            "adresse": "Frankfurt, Germany"
+                                        }
+                                    
+                                        }
+                                        ,
+                                        {
+                                            "id" : 20001436,
+                                            "désignation" : "Silk·expert Pro 3, At-home IPL Hair Removal System",
+                                            "prix" : 300,
+                                            "catégorie" : "Women",
+                                            "disponibilité" : ["Casa Blanca","Rabat","Asfi"],
+                                            "fournisseur":{
+                                                "raison_sociale":"Braun",
+                                                "adresse": "Frankfurt, Germany"
+                                            }
+                                        
+                                            }
+                                            ,
+                                            {
+                                                "id" : 20001437,
+                                                "désignation" : "Silk·épil 9 Flex Epilator, Beauty Set with FaceSpa",
+                                                "prix" : 450,
+                                                "catégorie" : "Women",
+                                                "disponibilité" : ["Casa Blanca","Rabat","Asfi","Chef Shawn","Tanger"],
+                                                "fournisseur":{
+                                                    "raison_sociale":"Braun",
+                                                    "adresse": "Frankfurt, Germany"
+                                                }
+                                            
+                                                }
+                                                ,
+                                            {
+                                                "id" : 20001438,
+                                                "désignation" : "Silk·épil 9 Epilator with bikini trimmer",
+                                                "prix" : 400,
+                                                "catégorie" : "Women",
+                                                "disponibilité" : ["Casa Blanca","Rabat","Chef Shawn","Tanger"],
+                                                "fournisseur":{
+                                                    "raison_sociale":"Braun",
+                                                    "adresse": "Frankfurt, Germany"
+                                                }
+                                            
+                                                }
+                                                ,
+                                            {
+                                                "id" : 20001439,
+                                                "désignation" : "Epilator, Silk·épil 5, Flamingo Pink",
+                                                "prix" : 400,
+                                                "catégorie" : "Women",
+                                                "disponibilité" : ["Casa Blanca","Rabat","Chef Shawn","Tanger"],
+                                                "fournisseur":{
+                                                    "raison_sociale":"Braun",
+                                                    "adresse": "Frankfurt, Germany"
+                                                }
+                                            
+                                                }
+                                                ,
+                                            {
+                                                "id" : 20001440,
+                                                "désignation" : "Epilator, Silk·épil 3, Pink with 2 extras",
+                                                "prix" : 40,
+                                                "catégorie" : "Women",
+                                                "disponibilité" : ["Casa Blanca","Rabat","Chef Shawn","Tanger"],
+                                                "fournisseur":{
+                                                    "raison_sociale":"Braun",
+                                                    "adresse": "Frankfurt, Germany"
+                                                }
+                                            
+                                                }
+                    
+]

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/696da253b9.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body>
+
+    <!--------NAV BAR-------->
+
+
+    <nav class="navbar navbar-light bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand text-light">Navbar</a>
+        <form class="d-flex">
+          <input id="myInput" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+     
+      <!-------TABLO------->
+
+      <table class="table mt-5" id="tbody">
+        <thead>
+          <tr style="border:2px solid"></tr>
+          
+        <tr>
+        
+          <th scope="col"><i onclick="sort_titre('id','asc')" class="fas fa-sort-amount-up"></i>id<i onclick="sort_titre('id','des')" class="fas fa-sort-amount-up"></i></th>
+          <th scope="col"><i onclick="sort_titre('désignation','asc')" class="fas fa-sort-amount-up"></i>désignation<i onclick="sort_titre('désignation','des')" class="fas fa-sort-amount-up"></i></th>
+          <th scope="col"><i onclick="sort_titre('prix','asc')" class="fas fa-sort-amount-up"></i>prix<i onclick="sort_titre('prix','des')" class="fas fa-sort-amount-up"></i></th>
+          <th scope="col"><i onclick="sort_titre('catégorie','asc')" class="fas fa-sort-amount-up"></i>catégorie<i onclick="sort_titre('catégorie','des')" class="fas fa-sort-amount-up"></i></th>
+          <th scope='col'>disponibilité<i class="fas fa-sort-amount-up"></i></th>
+          <th scope='col'>fournisseur<i class="fas fa-sort-amount-up"></i></th>
+        </tr>
+      </thead>
+        <tbody id="myTable">
+          
+        </tbody> 
+        
+      </table>
+      <script src="bootstrap.bundle.min.js"></script>
+      <script src="jquery.main.js"></script>
+      <script src="main.js"></script>
+      
+</body>
+</html>
